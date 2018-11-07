@@ -1,0 +1,72 @@
+C:\Users\akumarsaxena\source\repos\angApplication\angApplication\bin\angApplication.dll.config
+C:\Users\akumarsaxena\source\repos\angApplication\angApplication\bin\angApplication.dll
+C:\Users\akumarsaxena\source\repos\angApplication\angApplication\bin\angApplication.pdb
+C:\Users\akumarsaxena\source\repos\angApplication\angApplication\bin\roslyn\csc.exe
+C:\Users\akumarsaxena\source\repos\angApplication\angApplication\bin\roslyn\csc.exe.config
+C:\Users\akumarsaxena\source\repos\angApplication\angApplication\bin\roslyn\csc.rsp
+C:\Users\akumarsaxena\source\repos\angApplication\angApplication\bin\roslyn\csi.exe
+C:\Users\akumarsaxena\source\repos\angApplication\angApplication\bin\roslyn\csi.rsp
+C:\Users\akumarsaxena\source\repos\angApplication\angApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\akumarsaxena\source\repos\angApplication\angApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\akumarsaxena\source\repos\angApplication\angApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\akumarsaxena\source\repos\angApplication\angApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\akumarsaxena\source\repos\angApplication\angApplication\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\akumarsaxena\source\repos\angApplication\angApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\akumarsaxena\source\repos\angApplication\angApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\akumarsaxena\source\repos\angApplication\angApplication\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\akumarsaxena\source\repos\angApplication\angApplication\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\akumarsaxena\source\repos\angApplication\angApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\akumarsaxena\source\repos\angApplication\angApplication\bin\roslyn\System.AppContext.dll
+C:\Users\akumarsaxena\source\repos\angApplication\angApplication\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\akumarsaxena\source\repos\angApplication\angApplication\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\akumarsaxena\source\repos\angApplication\angApplication\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\akumarsaxena\source\repos\angApplication\angApplication\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\akumarsaxena\source\repos\angApplication\angApplication\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\akumarsaxena\source\repos\angApplication\angApplication\bin\roslyn\vbc.exe
+C:\Users\akumarsaxena\source\repos\angApplication\angApplication\bin\roslyn\vbc.exe.config
+C:\Users\akumarsaxena\source\repos\angApplication\angApplication\bin\roslyn\vbc.rsp
+C:\Users\akumarsaxena\source\repos\angApplication\angApplication\bin\roslyn\VBCSCompiler.exe
+C:\Users\akumarsaxena\source\repos\angApplication\angApplication\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\akumarsaxena\source\repos\angApplication\angApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\akumarsaxena\source\repos\angApplication\angApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\akumarsaxena\source\repos\angApplication\angApplication\obj\Debug\angApplication.csproj.CoreCompileInputs.cache
+C:\Users\akumarsaxena\source\repos\angApplication\angApplication\obj\Debug\angApplication.csproj.CopyComplete
+C:\Users\akumarsaxena\source\repos\angApplication\angApplication\obj\Debug\angApplication.dll
+C:\Users\akumarsaxena\source\repos\angApplication\angApplication\obj\Debug\angApplication.pdb
+C:\Users\akumarsaxena\source\repos\angApplication\angApplication\obj\Debug\angApplication.csprojAssemblyReference.cache
+C:\Work\Eminence\payments\angApplication (1)\angApplication\angApplication\obj\Debug\angApplication.csprojAssemblyReference.cache
+C:\Work\Eminence\payments\angApplication (1)\angApplication\angApplication\obj\Debug\angApplication.dll
+C:\Work\Eminence\payments\angApplication (1)\angApplication\angApplication\obj\Debug\angApplication.pdb
+C:\Work\Eminence\payments\angApplication (1)\angApplication\angApplication\bin\angApplication.dll.config
+C:\Work\Eminence\payments\angApplication (1)\angApplication\angApplication\bin\angApplication.dll
+C:\Work\Eminence\payments\angApplication (1)\angApplication\angApplication\bin\angApplication.pdb
+C:\Work\Eminence\payments\angApplication (1)\angApplication\angApplication\bin\roslyn\csc.exe
+C:\Work\Eminence\payments\angApplication (1)\angApplication\angApplication\bin\roslyn\csc.exe.config
+C:\Work\Eminence\payments\angApplication (1)\angApplication\angApplication\bin\roslyn\csc.rsp
+C:\Work\Eminence\payments\angApplication (1)\angApplication\angApplication\bin\roslyn\csi.exe
+C:\Work\Eminence\payments\angApplication (1)\angApplication\angApplication\bin\roslyn\csi.rsp
+C:\Work\Eminence\payments\angApplication (1)\angApplication\angApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Work\Eminence\payments\angApplication (1)\angApplication\angApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Work\Eminence\payments\angApplication (1)\angApplication\angApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Work\Eminence\payments\angApplication (1)\angApplication\angApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Work\Eminence\payments\angApplication (1)\angApplication\angApplication\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Work\Eminence\payments\angApplication (1)\angApplication\angApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Work\Eminence\payments\angApplication (1)\angApplication\angApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Work\Eminence\payments\angApplication (1)\angApplication\angApplication\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Work\Eminence\payments\angApplication (1)\angApplication\angApplication\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Work\Eminence\payments\angApplication (1)\angApplication\angApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Work\Eminence\payments\angApplication (1)\angApplication\angApplication\bin\roslyn\System.AppContext.dll
+C:\Work\Eminence\payments\angApplication (1)\angApplication\angApplication\bin\roslyn\System.Collections.Immutable.dll
+C:\Work\Eminence\payments\angApplication (1)\angApplication\angApplication\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Work\Eminence\payments\angApplication (1)\angApplication\angApplication\bin\roslyn\System.IO.FileSystem.dll
+C:\Work\Eminence\payments\angApplication (1)\angApplication\angApplication\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Work\Eminence\payments\angApplication (1)\angApplication\angApplication\bin\roslyn\System.Reflection.Metadata.dll
+C:\Work\Eminence\payments\angApplication (1)\angApplication\angApplication\bin\roslyn\vbc.exe
+C:\Work\Eminence\payments\angApplication (1)\angApplication\angApplication\bin\roslyn\vbc.exe.config
+C:\Work\Eminence\payments\angApplication (1)\angApplication\angApplication\bin\roslyn\vbc.rsp
+C:\Work\Eminence\payments\angApplication (1)\angApplication\angApplication\bin\roslyn\VBCSCompiler.exe
+C:\Work\Eminence\payments\angApplication (1)\angApplication\angApplication\bin\roslyn\VBCSCompiler.exe.config
+C:\Work\Eminence\payments\angApplication (1)\angApplication\angApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Work\Eminence\payments\angApplication (1)\angApplication\angApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Work\Eminence\payments\angApplication (1)\angApplication\angApplication\obj\Debug\angApplication.csproj.CoreCompileInputs.cache
+C:\Work\Eminence\payments\angApplication (1)\angApplication\angApplication\obj\Debug\angApplication.csproj.CopyComplete
